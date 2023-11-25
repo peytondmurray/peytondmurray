@@ -11,7 +11,8 @@ data ecosystem.
 - During my doctoral work I studied nanoscale magnetic materials at UC Davis
   under [Kai Liu](http://kailiu.georgetown.domains/research/).
 - As a postdoctoral scholar at Tampere University, I studied magnetic properties
-  using computational models.
+  using computational models with the Computational Physics Laboratory under
+  [Lasse Laurson](https://research.tuni.fi/cs/).
 - After leaving academia, I've worked as a software engineer on a wide range of
   projects.
 
