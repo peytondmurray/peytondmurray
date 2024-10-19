@@ -2,9 +2,9 @@
 
 I'm a software engineer working at [Quansight](https://quansight.com/).
 
-I am passionate about open source, data viz, accessibility, and open science,
-and have contributed to a bunch of open source projects, mostly in the Python
-data ecosystem.
+I am passionate about open source, data viz, open science, and accessibility.
+I've contributed to a bunch of different open source projects, mostly in the
+scientific Python ecosystem.
 
 ### Background
 
@@ -13,8 +13,9 @@ data ecosystem.
 - As a postdoctoral scholar at Tampere University, I studied magnetic properties
   using computational models with the Computational Physics Laboratory under
   [Lasse Laurson](https://research.tuni.fi/cs/).
-- After leaving academia, I've worked as a software engineer on a wide range of
-  projects.
+- After leaving academia, I started software engineering at
+  [Voltaiq](https://www.voltaiq.com/), building battery analytics and data viz
+  with Python.
 
 ### Interests
 
